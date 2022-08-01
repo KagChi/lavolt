@@ -1,0 +1,4 @@
+rootProject.name = 'Lavolt-Parent'
+include ':Lavolt-Server'
+
+project(':Lavolt-Server').projectDir = "$rootDir/LavoltServer" as File

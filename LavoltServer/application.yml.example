@@ -1,0 +1,12 @@
+server: # REST server
+  port: 2333
+  address: 0.0.0.0
+logging:
+  file:
+    max-history: 30
+    max-size: 1GB
+  path: ./logs/
+
+  level:
+    root: INFO
+    lavalink: INFO
