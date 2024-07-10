@@ -58,7 +58,7 @@ subprojects {
 
         springBootVersion               = "${springBootVersion}"
         springWebSocketVersion          = '5.1.9.RELEASE'
-        logbackVersion                  = '1.2.3'
+        logbackVersion                  = '1.5.6'
         jsonOrgVersion                  = '20180813'
         gsonVersion                     = '2.8.5'
         //@formatter:on
