@@ -60,7 +60,7 @@ subprojects {
         springWebSocketVersion          = '5.1.9.RELEASE'
         logbackVersion                  = '1.2.3'
         jsonOrgVersion                  = '20180813'
-        gsonVersion                     = '2.8.5'
+        gsonVersion                     = '2.11.0'
         //@formatter:on
     }
 }
